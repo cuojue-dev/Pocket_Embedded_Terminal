@@ -1,0 +1,26 @@
+# STM32CubeIDE build directories
+Debug/
+Release/
+
+# Object files and dependency outputs
+*.o
+*.d
+*.su
+
+# Linker and firmware outputs
+*.elf
+*.map
+*.list
+*.bin
+*.hex
+*.srec
+*.axf
+*.out
+
+# Local temporary files
+*.bak
+*.tmp
+*~
+
+# Local Eclipse runtime metadata, not project configuration
+RemoteSystemsTempFiles/
